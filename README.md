@@ -5,3 +5,4 @@ The aim of this project is to put forth analysis and visualisation of the Global
 This project has been done by four students of 1st Sem MSc(Big Data Analytics) - Reshma Dua, Joel Bharat Monis, Nidhi Teresa George and Rakshith KN on R Shiny as part of Sem I 
 curriculum.
 
+The dataset is too big to be uploaded here. So I've provided a link to the reduced dataset which was used for the visualisation. https://drive.google.com/file/d/19H1klZThGItR_Vz1UGEI8Ais0mBTkkd8/view?usp=sharing
